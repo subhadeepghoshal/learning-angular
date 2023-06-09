@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "my-first-angular-fire": {
+      "hosting": {
+        "my-product-app": [
+          "my-first-angular-fire"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "my-first-angular-fire"
+  }
+}
